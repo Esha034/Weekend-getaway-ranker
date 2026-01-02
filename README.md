@@ -105,12 +105,12 @@ Since the dataset does not provide geographical distance, a distance proxy is en
 
 Final Score =
 
-0.30 × Rating Score
-
 + 0.30 × Popularity Score
   
 + 0.40 × Distance Score
-+ 
+
++ 0.30 × Rating Score
+  
 Weights were tuned empirically to improve weekend travel feasibility.
 
 
@@ -127,6 +127,7 @@ Weights were tuned empirically to improve weekend travel feasibility.
 Eshani Banik
 
 B.Tech (CSE)
+
 
 
 
