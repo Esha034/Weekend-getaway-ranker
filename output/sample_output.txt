@@ -1,0 +1,30 @@
+
+Top Weekend Getaways from Agartala:
+----------------------------------------
+                       Name          City         State  final_score
+      Unakoti Rock Carvings       Unakoti       Tripura     1.000000
+               Dumboor Lake       Dumboor       Tripura     0.999302
+Buddh International Circuit Greater Noida Uttar Pradesh     0.707222
+   Hayagriva Madhava Temple          Hajo         Assam     0.581491
+          Sivasagar Sivadol     Sivasagar         Assam     0.556404
+
+
+Top Weekend Getaways from Agra:
+----------------------------------------
+                       Name          City         State  final_score
+Buddh International Circuit Greater Noida Uttar Pradesh     1.000000
+          DLF Mall of India         Noida Uttar Pradesh     0.796608
+    Kashi Vishwanath Temple      Varanasi Uttar Pradesh     0.781026
+                Prem Mandir     Vrindavan Uttar Pradesh     0.771994
+        Banke Bihari Temple     Vrindavan Uttar Pradesh     0.767857
+
+
+Top Weekend Getaways from Ahmedabad:
+----------------------------------------
+              Name          City   State  final_score
+Dwarkadhish Temple        Dwarka Gujarat     1.000000
+    Somnath Temple       Somnath Gujarat     0.997673
+   Statue of Unity       Kevadia Gujarat     0.996957
+        Rann Utsav Rann of Kutch Gujarat     0.991318
+        Akshardham   Gandhinagar Gujarat     0.975029
+
