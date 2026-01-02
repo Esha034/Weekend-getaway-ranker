@@ -1,10 +1,10 @@
 # Weekend Getaway Ranker 
 
-A data-driven recommendation engine that ranks the best weekend travel destinations in India based on **distance, user ratings, and popularity**.
-
-This project demonstrates practical **data engineering, feature engineering, and ranking logic**, and is deployable as an interactive web app using Streamlit.
+A data-driven recommendation engine that ranks the best weekend travel destinations in India based on **distance, user ratings, and popularity**. This project demonstrates practical **data engineering, feature engineering, and ranking logic**, and is deployable as an interactive web app using Streamlit.
 
 ---
+## 🔗 Live Demo
+ **Click here:** [Weekend Getaway Ranker ](https://weekend-getaway-ranker-web.streamlit.app/)
 
 ##  Features
 
@@ -84,6 +84,7 @@ Open browser at:
 
 http://localhost:8501
 ## Recommendation Logic
+
 Since the dataset does not provide geographical distance, a distance proxy is engineered:
 
 | Condition      | Distance Score |
@@ -96,13 +97,14 @@ Since the dataset does not provide geographical distance, a distance proxy is en
 ## Final Ranking Score
 
 Final Score =
+
 0.30 × Rating Score
+
 + 0.30 × Popularity Score
+  
 + 0.40 × Distance Score
 Weights were tuned empirically to improve weekend travel feasibility.
 
-## Deployment
-This project is ready for deployment on Streamlit Cloud by directly connecting the GitHub repository and selecting app.py as the entry point.
 
 ## Future Improvements
 -Add geographical distance using latitude/longitude
@@ -115,4 +117,6 @@ This project is ready for deployment on Streamlit Cloud by directly connecting t
 
 👤 Author
 Eshani Banik
+
 B.Tech (CSE)
+
