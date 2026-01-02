@@ -56,10 +56,13 @@ weekend-getaway-ranker/
 
 
 git clone https://github.com/your-username/weekend-getaway-ranker.git
+
 cd weekend-getaway-ranker
+
 2️. Create virtual environment
 
 python -m venv venv
+
 3️. Activate environment
 Windows
 
@@ -67,9 +70,11 @@ venv\Scripts\activate
 Linux / Mac
 
 source venv/bin/activate
+
 4️. Install dependencies
 
 pip install -r requirements.txt
+
 ## Execution (CLI Mode)
 Run the ranking algorithm using:
 
@@ -77,12 +82,14 @@ python src/ranker.py
 The output will be saved to:
 
 output/sample_output.txt
+
 ## Run Streamlit App Locally
 
 streamlit run app.py
 Open browser at:
 
 http://localhost:8501
+
 ## Recommendation Logic
 
 Since the dataset does not provide geographical distance, a distance proxy is engineered:
@@ -119,4 +126,5 @@ Weights were tuned empirically to improve weekend travel feasibility.
 Eshani Banik
 
 B.Tech (CSE)
+
 
