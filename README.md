@@ -59,11 +59,11 @@ git clone https://github.com/your-username/weekend-getaway-ranker.git
 
 cd weekend-getaway-ranker
 
-2️. Create virtual environment
+### 2️. Create virtual environment
 
 python -m venv venv
 
-3️. Activate environment
+### 3️. Activate environment
 Windows
 
 venv\Scripts\activate
@@ -71,7 +71,7 @@ Linux / Mac
 
 source venv/bin/activate
 
-4️. Install dependencies
+### 4️. Install dependencies
 
 pip install -r requirements.txt
 
@@ -110,6 +110,7 @@ Final Score =
 + 0.30 × Popularity Score
   
 + 0.40 × Distance Score
++ 
 Weights were tuned empirically to improve weekend travel feasibility.
 
 
@@ -126,5 +127,6 @@ Weights were tuned empirically to improve weekend travel feasibility.
 Eshani Banik
 
 B.Tech (CSE)
+
 
 
